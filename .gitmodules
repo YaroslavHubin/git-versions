@@ -1,0 +1,6 @@
+[submodule "libs/lodash"]
+	path = libs/lodash
+	url = https://github.com/lodash/lodash.git
+[submodule "git-versions"]
+	path = git-versions
+	url = https://github.com/YaroslavHubin/git-versions.git
